@@ -1,3 +1,5 @@
+https://sinagong.gilbut.co.kr/it/premium#0304
+
 # [1과목] 정보시스템 기반 기술
 ## 1장 응용 SW 기초 기술 활용
 ### 001 운영체제의 개념
